@@ -1,6 +1,6 @@
 # mddiff
 
-> Realtime markdown diff module
+> Realtime markdown diff module example
 
 ## Build Setup
 

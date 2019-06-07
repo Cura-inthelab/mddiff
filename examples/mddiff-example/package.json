@@ -1,8 +1,8 @@
 {
-  "name": "mddiff",
-  "version": "1.0.0",
-  "description": "Realtime markdown diff module",
-  "author": "Cura <cura.inthelab@gmail.com>",
+  "name": "mddiff-example",
+  "version": "0.0.1",
+  "description": "Realtime markdown diff module example",
+  "author": "Cura <crocess@ajou.ac.kr>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
